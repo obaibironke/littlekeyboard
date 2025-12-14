@@ -1,0 +1,26 @@
+{
+  "keyboard_name": "Hackpad",
+  "manufacturer": "Oba",
+  "maintainer": "Oba",
+  "usb": {
+    "vid": "0xFEED",
+    "pid": "0x0001",
+    "device_version": "0.0.1"
+  },
+  "matrix": {
+    "rows": 1,
+    "cols": 6
+  },
+  "layouts": {
+    "LAYOUT_all": {
+      "layout": [
+        { "label": "K1", "x": 0, "y": 0 },
+        { "label": "K2", "x": 1, "y": 0 },
+        { "label": "K3", "x": 2, "y": 0 },
+        { "label": "K4", "x": 0, "y": 1 },
+        { "label": "K5", "x": 1, "y": 1 },
+        { "label": "K6", "x": 2, "y": 1 }
+      ]
+    }
+  }
+}
