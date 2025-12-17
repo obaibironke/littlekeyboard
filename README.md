@@ -30,3 +30,10 @@ PCB:
 <img width="678" height="855" alt="image" src="https://github.com/user-attachments/assets/d2e78d73-dc32-426d-bfab-1d1ecf67b935" />
 
 
+
+Render:
+
+<img width="1920" height="664" alt="Assembled Little Keyboard" src="https://github.com/user-attachments/assets/7f869ee5-cf3a-481a-a353-98f71a18d46c" />
+
+
+
